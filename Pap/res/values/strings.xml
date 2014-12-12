@@ -4,5 +4,8 @@
     <string name="app_name">Pap</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="pap">This is Pap</string>
+    <string name="price">0 baht</string>
+    <string name="app_name2">This is Pap application</string>
 
 </resources>
